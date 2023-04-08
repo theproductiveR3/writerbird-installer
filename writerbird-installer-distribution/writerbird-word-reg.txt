@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\WEF\TrustedCatalogs\{e49d86df-2080-4004-9e65-3e4de6360964}]
+"Id"="{e49d86df-2080-4004-9e65-3e4de63609646}"
+"Url"= "SHARED-PATH"
+"Flags"=dword:00000001
